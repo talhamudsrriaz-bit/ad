@@ -1,0 +1,6 @@
+{
+  "name": "SponsorGrid Ad Studio",
+  "description": "Production-grade Product Ad Creation Interface for serverless ad networks targeting Supabase sponsored_products table with live multi-format rendering and distribution webhook triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
